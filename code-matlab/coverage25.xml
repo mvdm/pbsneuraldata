@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coverage branch-rate="NaN" branches-covered="NaN" branches-valid="NaN" complexity="NaN" line-rate="0" lines-covered="0" lines-valid="45" timestamp="1659427805.843" version="">
+   <sources>
+      <source>C:\Users\mvdm\Documents\GitHub\vandermeerlab\code-matlab\shared\stats\</source>
+   </sources>
+   <packages>
+      <package branch-rate="NaN" complexity="NaN" line-rate="0" name="">
+         <classes>
+            <class branch-rate="NaN" complexity="NaN" filename="circ_regress.m" line-rate="0" name="circ_regress">
+               <methods/>
+               <lines>
+                  <line hits="0" number="27"/>
+                  <line hits="0" number="28"/>
+                  <line hits="0" number="29"/>
+                  <line hits="0" number="31"/>
+                  <line hits="0" number="33"/>
+                  <line hits="0" number="34"/>
+                  <line hits="0" number="37"/>
+                  <line hits="0" number="39"/>
+                  <line hits="0" number="40"/>
+                  <line hits="0" number="43"/>
+                  <line hits="0" number="44"/>
+                  <line hits="0" number="46"/>
+                  <line hits="0" number="47"/>
+                  <line hits="0" number="49"/>
+                  <line hits="0" number="51"/>
+                  <line hits="0" number="52"/>
+                  <line hits="0" number="54"/>
+                  <line hits="0" number="56"/>
+                  <line hits="0" number="58"/>
+                  <line hits="0" number="60"/>
+                  <line hits="0" number="62"/>
+                  <line hits="0" number="64"/>
+                  <line hits="0" number="65"/>
+                  <line hits="0" number="70"/>
+                  <line hits="0" number="71"/>
+                  <line hits="0" number="72"/>
+                  <line hits="0" number="79"/>
+               </lines>
+            </class>
+            <class branch-rate="NaN" complexity="NaN" filename="fast_polyfit.m" line-rate="0" name="fast_polyfit">
+               <methods/>
+               <lines>
+                  <line hits="0" number="46"/>
+                  <line hits="0" number="47"/>
+                  <line hits="0" number="49"/>
+                  <line hits="0" number="50"/>
+                  <line hits="0" number="51"/>
+                  <line hits="0" number="55"/>
+                  <line hits="0" number="56"/>
+                  <line hits="0" number="57"/>
+                  <line hits="0" number="61"/>
+                  <line hits="0" number="62"/>
+                  <line hits="0" number="63"/>
+                  <line hits="0" number="64"/>
+                  <line hits="0" number="66"/>
+                  <line hits="0" number="67"/>
+                  <line hits="0" number="71"/>
+                  <line hits="0" number="72"/>
+                  <line hits="0" number="73"/>
+                  <line hits="0" number="76"/>
+               </lines>
+            </class>
+         </classes>
+      </package>
+   </packages>
+</coverage>

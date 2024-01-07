@@ -1,0 +1,29 @@
+1..9
+ok 1 - TEST_datatypes/TestDataTypeInitialization
+ok 2 - TEST_LoadSpikes/BasicDataLoadingTest
+ok 3 - TEST_ComputeACF/testThatOutputsHaveTheExpectedSize
+not ok 4 - TEST_RestrictMakeQfromS/testCommutativityOfRestrictAndMakeQfromS
+# ================================================================================
+# Error occurred in TEST_RestrictMakeQfromS/testCommutativityOfRestrictAndMakeQfromS and it did not run to completion.
+# 
+#     ---------
+#     Error ID:
+#     ---------
+#     'MATLAB:assertion:failed'
+# 
+#     --------------
+#     Error Details:
+#     --------------
+#     Error using TEST_RestrictMakeQfromS (line 31)
+#     Assertion failed.
+# ================================================================================
+# 
+ok 5 - TEST_restrict/preserveTsDataTypeWithRawInputTimes
+ok 6 - TEST_restrict/tsFunctionality
+ok 7 - TEST_restrict/preserveTsdDataType
+ok 8 - TEST_restrict/tsdFunctionality_1_DData_
+ok 9 - TEST_restrict/tsdFunctionality_2_DData_
+
+1..1
+ok 1 - TEST_RestrictMakeQfromS/testCommutativityOfRestrictAndMakeQfromS
+

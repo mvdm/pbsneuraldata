@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coverage branch-rate="NaN" branches-covered="NaN" branches-valid="NaN" complexity="NaN" line-rate="0" lines-covered="0" lines-valid="13" timestamp="1659427807.554" version="">
+   <sources>
+      <source>C:\Users\mvdm\Documents\GitHub\vandermeerlab\code-matlab\shared\util\nan\</source>
+   </sources>
+   <packages>
+      <package branch-rate="NaN" complexity="NaN" line-rate="0" name="">
+         <classes>
+            <class branch-rate="NaN" complexity="NaN" filename="nansum.m" line-rate="0" name="nansum">
+               <methods/>
+               <lines>
+                  <line hits="0" number="26"/>
+                  <line hits="0" number="27"/>
+                  <line hits="0" number="28"/>
+                  <line hits="0" number="31"/>
+                  <line hits="0" number="32"/>
+                  <line hits="0" number="33"/>
+                  <line hits="0" number="34"/>
+                  <line hits="0" number="39"/>
+                  <line hits="0" number="40"/>
+                  <line hits="0" number="43"/>
+                  <line hits="0" number="44"/>
+                  <line hits="0" number="46"/>
+                  <line hits="0" number="47"/>
+               </lines>
+            </class>
+         </classes>
+      </package>
+   </packages>
+</coverage>

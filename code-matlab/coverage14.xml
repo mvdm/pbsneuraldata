@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coverage branch-rate="NaN" branches-covered="NaN" branches-valid="NaN" complexity="NaN" line-rate="0" lines-covered="0" lines-valid="18" timestamp="1659427803.898" version="">
+   <sources>
+      <source>C:\Users\mvdm\Documents\GitHub\vandermeerlab\code-matlab\shared\io\neuralynx\</source>
+   </sources>
+   <packages>
+      <package branch-rate="NaN" complexity="NaN" line-rate="0" name="">
+         <classes>
+            <class branch-rate="NaN" complexity="NaN" filename="Mat2NlxCSC.m" line-rate="NaN" name="Mat2NlxCSC">
+               <methods/>
+               <lines/>
+            </class>
+            <class branch-rate="NaN" complexity="NaN" filename="Mat2NlxEV.m" line-rate="NaN" name="Mat2NlxEV">
+               <methods/>
+               <lines/>
+            </class>
+            <class branch-rate="NaN" complexity="NaN" filename="Mat2NlxNDE.m" line-rate="NaN" name="Mat2NlxNDE">
+               <methods/>
+               <lines/>
+            </class>
+            <class branch-rate="NaN" complexity="NaN" filename="Mat2NlxNRD.m" line-rate="NaN" name="Mat2NlxNRD">
+               <methods/>
+               <lines/>
+            </class>
+            <class branch-rate="NaN" complexity="NaN" filename="Mat2NlxSpike.m" line-rate="NaN" name="Mat2NlxSpike">
+               <methods/>
+               <lines/>
+            </class>
+            <class branch-rate="NaN" complexity="NaN" filename="Mat2NlxTS.m" line-rate="NaN" name="Mat2NlxTS">
+               <methods/>
+               <lines/>
+            </class>
+            <class branch-rate="NaN" complexity="NaN" filename="Mat2NlxVT.m" line-rate="NaN" name="Mat2NlxVT">
+               <methods/>
+               <lines/>
+            </class>
+            <class branch-rate="NaN" complexity="NaN" filename="Nlx2MatCSC.m" line-rate="NaN" name="Nlx2MatCSC">
+               <methods/>
+               <lines/>
+            </class>
+            <class branch-rate="NaN" complexity="NaN" filename="Nlx2MatEV.m" line-rate="NaN" name="Nlx2MatEV">
+               <methods/>
+               <lines/>
+            </class>
+            <class branch-rate="NaN" complexity="NaN" filename="Nlx2MatNDE.m" line-rate="NaN" name="Nlx2MatNDE">
+               <methods/>
+               <lines/>
+            </class>
+            <class branch-rate="NaN" complexity="NaN" filename="Nlx2MatNRD.m" line-rate="NaN" name="Nlx2MatNRD">
+               <methods/>
+               <lines/>
+            </class>
+            <class branch-rate="NaN" complexity="NaN" filename="Nlx2MatSpike.m" line-rate="NaN" name="Nlx2MatSpike">
+               <methods/>
+               <lines/>
+            </class>
+            <class branch-rate="NaN" complexity="NaN" filename="Nlx2MatTS.m" line-rate="NaN" name="Nlx2MatTS">
+               <methods/>
+               <lines/>
+            </class>
+            <class branch-rate="NaN" complexity="NaN" filename="Nlx2MatVt.m" line-rate="NaN" name="Nlx2MatVt">
+               <methods/>
+               <lines/>
+            </class>
+            <class branch-rate="NaN" complexity="NaN" filename="read_smi.m" line-rate="0" name="read_smi">
+               <methods/>
+               <lines>
+                  <line hits="0" number="7"/>
+                  <line hits="0" number="8"/>
+                  <line hits="0" number="10"/>
+                  <line hits="0" number="12"/>
+                  <line hits="0" number="13"/>
+                  <line hits="0" number="14"/>
+                  <line hits="0" number="16"/>
+                  <line hits="0" number="18"/>
+                  <line hits="0" number="20"/>
+                  <line hits="0" number="22"/>
+                  <line hits="0" number="23"/>
+                  <line hits="0" number="26"/>
+                  <line hits="0" number="27"/>
+                  <line hits="0" number="28"/>
+                  <line hits="0" number="29"/>
+                  <line hits="0" number="34"/>
+                  <line hits="0" number="35"/>
+                  <line hits="0" number="37"/>
+               </lines>
+            </class>
+         </classes>
+      </package>
+   </packages>
+</coverage>

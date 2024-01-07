@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coverage branch-rate="NaN" branches-covered="NaN" branches-valid="NaN" complexity="NaN" line-rate="0" lines-covered="0" lines-valid="21" timestamp="1659427800.246" version="">
+   <sources>
+      <source>C:\Users\mvdm\Documents\GitHub\vandermeerlab\code-matlab\shared\datatypes\</source>
+   </sources>
+   <packages>
+      <package branch-rate="NaN" complexity="NaN" line-rate="0" name="">
+         <classes>
+            <class branch-rate="NaN" complexity="NaN" filename="plot.m" line-rate="0" name="plot">
+               <methods/>
+               <lines>
+                  <line hits="0" number="6"/>
+                  <line hits="0" number="7"/>
+                  <line hits="0" number="8"/>
+                  <line hits="0" number="9"/>
+                  <line hits="0" number="10"/>
+                  <line hits="0" number="11"/>
+                  <line hits="0" number="12"/>
+                  <line hits="0" number="13"/>
+                  <line hits="0" number="14"/>
+                  <line hits="0" number="15"/>
+                  <line hits="0" number="17"/>
+                  <line hits="0" number="18"/>
+                  <line hits="0" number="19"/>
+                  <line hits="0" number="20"/>
+                  <line hits="0" number="21"/>
+                  <line hits="0" number="23"/>
+                  <line hits="0" number="24"/>
+                  <line hits="0" number="26"/>
+                  <line hits="0" number="27"/>
+                  <line hits="0" number="30"/>
+                  <line hits="0" number="31"/>
+               </lines>
+            </class>
+         </classes>
+      </package>
+   </packages>
+</coverage>

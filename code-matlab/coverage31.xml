@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coverage branch-rate="NaN" branches-covered="NaN" branches-valid="NaN" complexity="NaN" line-rate="0" lines-covered="0" lines-valid="18" timestamp="1659427807.595" version="">
+   <sources>
+      <source>C:\Users\mvdm\Documents\GitHub\vandermeerlab\code-matlab\shared\util\numSubplots\</source>
+   </sources>
+   <packages>
+      <package branch-rate="NaN" complexity="NaN" line-rate="0" name="">
+         <classes>
+            <class branch-rate="NaN" complexity="NaN" filename="numSubplots.m" line-rate="0" name="numSubplots">
+               <methods/>
+               <lines>
+                  <line hits="0" number="29"/>
+                  <line hits="0" number="30"/>
+                  <line hits="0" number="33"/>
+                  <line hits="0" number="35"/>
+                  <line hits="0" number="36"/>
+                  <line hits="0" number="37"/>
+                  <line hits="0" number="41"/>
+                  <line hits="0" number="42"/>
+                  <line hits="0" number="43"/>
+                  <line hits="0" number="44"/>
+                  <line hits="0" number="45"/>
+                  <line hits="0" number="46"/>
+                  <line hits="0" number="47"/>
+                  <line hits="0" number="48"/>
+                  <line hits="0" number="50"/>
+                  <line hits="0" number="56"/>
+                  <line hits="0" number="57"/>
+                  <line hits="0" number="58"/>
+               </lines>
+            </class>
+         </classes>
+      </package>
+   </packages>
+</coverage>

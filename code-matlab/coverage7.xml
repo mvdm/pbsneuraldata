@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coverage branch-rate="NaN" branches-covered="NaN" branches-valid="NaN" complexity="NaN" line-rate="0" lines-covered="0" lines-valid="31" timestamp="1659427801.796" version="">
+   <sources>
+      <source>C:\Users\mvdm\Documents\GitHub\vandermeerlab\code-matlab\shared\ft\</source>
+   </sources>
+   <packages>
+      <package branch-rate="NaN" complexity="NaN" line-rate="0" name="">
+         <classes>
+            <class branch-rate="NaN" complexity="NaN" filename="ft_maketrl.m" line-rate="0" name="ft_maketrl">
+               <methods/>
+               <lines>
+                  <line hits="0" number="24"/>
+                  <line hits="0" number="25"/>
+                  <line hits="0" number="26"/>
+                  <line hits="0" number="28"/>
+                  <line hits="0" number="29"/>
+                  <line hits="0" number="33"/>
+                  <line hits="0" number="34"/>
+                  <line hits="0" number="38"/>
+                  <line hits="0" number="40"/>
+                  <line hits="0" number="42"/>
+                  <line hits="0" number="43"/>
+                  <line hits="0" number="44"/>
+                  <line hits="0" number="48"/>
+                  <line hits="0" number="49"/>
+                  <line hits="0" number="50"/>
+                  <line hits="0" number="52"/>
+               </lines>
+            </class>
+            <class branch-rate="NaN" complexity="NaN" filename="read_mclust_t.m" line-rate="0" name="read_mclust_t">
+               <methods/>
+               <lines>
+                  <line hits="0" number="9"/>
+                  <line hits="0" number="10"/>
+                  <line hits="0" number="13"/>
+                  <line hits="0" number="16"/>
+                  <line hits="0" number="17"/>
+                  <line hits="0" number="18"/>
+                  <line hits="0" number="19"/>
+                  <line hits="0" number="20"/>
+                  <line hits="0" number="21"/>
+                  <line hits="0" number="22"/>
+                  <line hits="0" number="25"/>
+                  <line hits="0" number="26"/>
+                  <line hits="0" number="27"/>
+                  <line hits="0" number="29"/>
+                  <line hits="0" number="32"/>
+               </lines>
+            </class>
+         </classes>
+      </package>
+   </packages>
+</coverage>
